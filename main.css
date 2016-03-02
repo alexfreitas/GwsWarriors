@@ -1,1 +1,17 @@
-
+h1 {
+    color: white;
+    text-align: center;
+font-size: 100px;
+}
+body {
+    background-image: url("http://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/warriors/images/season-finale-2015-bg-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a  {
+    color: white;
+    text-align center;
+    font-size: 50px;
+}
