@@ -15,14 +15,14 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: none;
 }
-div {
+#head {
   background-color: HoneyDew;
   border: 10px solid sienna;
   
   
   
 }
-# side {
+#side {
     height:; 30em;
     width: 30em;
         
