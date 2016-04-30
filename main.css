@@ -1,17 +1,30 @@
-h1 {
-    color: gold;
-    text-align: center;
-font-size: 100px;
-}
-body {
-    background-image: url("http://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/warriors/images/season-finale-2015-bg-1.jpg");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
+
+
 p  {
-    color: gold;
+    color: GoldenRod;
     text-align center;
     font-size: 50px;
+}
+
+a:link, a:visited {
+    color: GoldenRod;
+    padding: 14px 25px;
+    text-align: center;	
+    text-decoration: none;
+}
+a:hover, a:active {
+    background-color: none;
+}
+div {
+  background-color: HoneyDew;
+  border: 10px solid sienna;
+  
+  
+  
+}
+# side {
+    height:; 30em;
+    width: 30em;
+        
+    
 }
