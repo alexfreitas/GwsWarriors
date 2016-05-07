@@ -13,6 +13,10 @@ body {
 }
 p {
   color: white;
-  text-align:left;
+  text-align:center;
   font-size:50px;
+}
+iframe {
+  position: center;
+  
 }
